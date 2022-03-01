@@ -1,0 +1,28 @@
+.contact{
+   
+    background-color: rgb(0, 0, 0);
+    padding: 160px 200px;
+    color: white;
+}
+.ch{
+    margin-bottom: 120px;
+}
+.cs{
+    padding-right: 400px;
+
+}
+.icons{
+    
+    padding-top: 20px;
+}
+.cr{
+    border-left: 6px solid green;
+  height: 500px;
+  padding-left: 100px;
+}
+.cr h4{
+    padding: 20px 0px;
+}
+.cr p{
+    padding-bottom: 30px;
+}

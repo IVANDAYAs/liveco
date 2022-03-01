@@ -1,0 +1,21 @@
+.sbwimg{
+    width: 147.5%;
+    padding-left: 90px;
+}
+
+.sbwh{
+    margin-bottom: 60px;
+}
+.sbwbtn{
+    font-size: 1.5em;
+    background-color: black;
+    color: white;
+    padding: 10px 30px;
+    font-family: "alias";
+}
+.sbwh h1{
+    font-size: 500%;
+}
+.sbwleft{
+    padding-top: 200px;
+}

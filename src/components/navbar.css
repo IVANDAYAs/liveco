@@ -1,0 +1,38 @@
+.navbar{
+    padding-left: 100px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: black;
+    
+}
+.lnav .nav-link{
+    color: white;
+
+}
+.lnav .nav-link:hover{
+    color:#794936;
+}
+.navbar-nav{
+    padding-right: 10px;
+}
+.navbar-brand{
+    color: aliceblue;
+    padding-right: 50px;
+    font-family: 'Yeseva One';
+}
+.navbar-brand:hover{
+    color:#794936;
+}
+.logbtn{
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #794936;
+}
+.logbtn:hover{
+    background-color: #2F2A24;
+    color: white;
+}
+.credbtn{
+    margin-right: 100px;
+}
