@@ -1,0 +1,24 @@
+.lsus{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 80px;
+}
+.lsus h1{
+    font-family: "alice";
+}
+.lsusup{
+    padding-bottom: 40px;
+}
+.lsusbtn{
+    font-family: "alice";
+    color: black;
+    font-size: 1.2em;
+    text-align: center;
+    padding:10px 50px;
+    background-color: white;
+
+}

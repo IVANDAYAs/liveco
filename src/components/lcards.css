@@ -1,0 +1,25 @@
+.lcards{
+    background-color: #794936;
+    padding: 20px 30px;
+    text-align: left;
+    margin:100px 30px;
+    height: 70%;
+    position: relative;
+}
+.lcards:hover{
+    box-shadow: 10px 10px 12px 6px rgb(80, 85, 87);
+}
+.lsusimg{
+    width: 100%;
+    border: solid white;
+    border-radius: 100%;
+}
+.lsush{
+   padding-bottom: 200px;
+}
+.lcarddown{
+    position: absolute;
+    width: 80%;
+    bottom: 30px;
+    
+}   

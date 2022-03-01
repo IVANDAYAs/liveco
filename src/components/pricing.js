@@ -1,0 +1,38 @@
+import React from "react";
+import "./pricing.css";
+import pricing from "./images/pricing.JPG";
+import Cards from "./cards.js";
+
+export default function(){
+    return(
+        <div id="pricing" className="pricing">
+            <div className="ph">
+                <h1>THE LIVECO LEVITATION PROGRAM</h1>
+            </div>
+            <div className="pd">
+                <h3>A DAY OF LIVING HEALTHY COSTS LESS THAN A LITRE OF PETROL</h3>
+            </div>
+            <div className="container pmiddle">
+                <div className="row">
+                    <div className="col pmleft">
+                        <img className="pimg" src={pricing}></img>
+                    </div>
+                    <div className="col pmright">
+                        <h2 className="pmrh"><b>GOLD PACK</b> - 2499 Rupees</h2>
+                        <p className="pmrp">24 live classes.<br/>Access to all our pre-recorded classes.<br/>Get a pass to the community-driven programmes.<br/>Get indulged in co-cuuricular activities.<br/>Brand connisure programme.<br/>Subscription to our newsletter.<br/>Nutritionist consultation. </p>
+                    </div>
+                </div>
+            </div>
+            <div className="container pbottom ">
+                <div className="row ">
+                    <div className="col">
+                        <Cards name="SILVER PACK" price="1799" />
+                    </div>
+                    <div className="col">
+                        <Cards name="RHODIUM PACK" price="4499" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    );
+}
