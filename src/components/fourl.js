@@ -12,7 +12,7 @@ export default function(){
                     </div>
                     <div className="col rightfourl">
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/1piFN_ioMVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        <button type="button" class="btn btn-outline-secondary fbtn"><a className="nav-link" href="#fourl">know more</a></button>
+                        <button type="button" class="btn btn-outline-secondary fbtn">know more</button>
                     </div>
                 </div>
             </div>
