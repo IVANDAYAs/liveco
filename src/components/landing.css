@@ -50,6 +50,7 @@
         height: 100%;
         opacity: 50%;
         transform: translateX(-35%) ;
+        object-fit: contain;
     }
     .landlogo{
         width: 40%;
