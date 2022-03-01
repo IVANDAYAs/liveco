@@ -44,6 +44,9 @@
 @media (max-width: 768px){
     .landing{
         padding-top: 120px;
+        width: 100%;
+        text-align: center ;
+        overflow: hidden;
     }
     .landbg{
         width: 300%;
@@ -51,6 +54,7 @@
         opacity: 50%;
         transform: translateX(-35%) ;
         object-fit: contain;
+
     }
     .landlogo{
         width: 40%;
