@@ -3,8 +3,8 @@ import "./navbar.css";
 
 export default function(){
     return(
-        <div className="lnav container-fluid">
-            <nav class="navbar navbar-dark fixed-top navbar-expand-lg  lnav" >
+        <div className="lnav">
+            <nav class="navbar navbar-dark fixed-top navbar-expand-lg " >
                 <div class="container-fluid">
                     <a class="navbar-brand" href="#">LIVECO</a>
                     <div className="icon">

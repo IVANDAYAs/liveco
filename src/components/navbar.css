@@ -54,4 +54,9 @@
    .icon{
         padding-right: 30px;
    }
+
+   .navbar-brand{
+       padding-right: 0px;
+   }
  }
+
