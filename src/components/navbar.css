@@ -1,3 +1,7 @@
+.lnav{
+    width: 100%;
+    overflow: hidden;
+}
 .navbar{
     padding-left: 100px;
     padding-top: 40px;
