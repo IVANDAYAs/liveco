@@ -1,6 +1,12 @@
 .pcard{
     background-color: bisque;
     width: 50%;
-    padding: 30px;
+    padding: 20px 10px;
+    margin: 20px 0px;
     text-align: center;
+}
+@media (max-width: 768px){
+  .pcard{
+      width: 80%;
+  }
 }

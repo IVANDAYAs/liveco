@@ -7,10 +7,10 @@ export default function(){
         <div id="fourl" className="fourl">
             <div className="container">
                 <div className="row upfourl">
-                    <div className="col leftfourl">
+                    <div className="col-md-6 leftfourl">
                         <img className="flimg" src={fourl}></img>
                     </div>
-                    <div className="col rightfourl">
+                    <div className="col-md-6 rightfourl">
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/1piFN_ioMVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         <button type="button" class="btn btn-outline-secondary fbtn">know more</button>
                     </div>

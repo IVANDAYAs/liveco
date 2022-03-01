@@ -25,7 +25,6 @@
 }
 .landlogo{
     width: 150px;
-   
     padding-bottom: 25px;
 }
 .lbtn{
@@ -34,7 +33,42 @@
     color: white;
 }
 
+
 .nav-link{
     font-size: 20px;
     color: white;
+}
+
+
+
+@media (max-width: 768px){
+    .landing{
+        padding-top: 120px;
+    }
+    .landbg{
+        width: 300%;
+        height: 100%;
+        opacity: 50%;
+        transform: translateX(-35%) ;
+    }
+    .landlogo{
+        width: 40%;
+    }
+    .landingtext{
+        font-family: "alice";
+        position: absolute;
+        padding-top: 250px;
+  
+    }
+    .landingtext h4{
+        padding-bottom: 10px;
+    }
+    .landingtext h2{
+        font-size: medium;
+    }
+    .landingtext h5{
+        font-size: small;
+        padding-top: 10px;
+        padding-bottom: 30px;
+    }
 }

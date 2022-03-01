@@ -13,7 +13,9 @@ export default function(){
                         <br />
                         <h2>Sign up for free trial,we are your well wishers</h2>
                         <h5>STAND A CHANCE TO GET AN EXCLUSIVE LIVECO NFT</h5>
-                        <button  type="button" class="btn  lbtn">know more</button>
+                        <div className="lbtn1">
+                            <button  type="button" class="btn  lbtn">know more</button>
+                        </div>
                     </div>  
             </div>
     );
