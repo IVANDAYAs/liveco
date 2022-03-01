@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/liveco/static/css/main.ce9a3d4f.css",
+    "main.js": "/liveco/static/js/main.54fe5d17.js",
+    "static/media/landing.JPG": "/liveco/static/media/landing.5a54172ddd00bc5f0e53.JPG",
+    "static/media/sbw.JPG": "/liveco/static/media/sbw.3eca3a36e0b73e9f73a7.JPG",
+    "static/media/pricing.JPG": "/liveco/static/media/pricing.28ac06561dbb2d82ecad.JPG",
+    "static/media/4l.png": "/liveco/static/media/4l.66e18dfcefc4fe0fbb1a.png",
+    "static/media/lsus3.png": "/liveco/static/media/lsus3.ddf96a141a5dfa37513e.png",
+    "static/media/lsus1.png": "/liveco/static/media/lsus1.9becdf71c505e9c4dd8d.png",
+    "static/media/lsus2.png": "/liveco/static/media/lsus2.7bc55537613ac8d43f0d.png",
+    "static/media/logo.png": "/liveco/static/media/logo.5e4981c3be2fa97b3089.png",
+    "index.html": "/liveco/index.html",
+    "main.ce9a3d4f.css.map": "/liveco/static/css/main.ce9a3d4f.css.map",
+    "main.54fe5d17.js.map": "/liveco/static/js/main.54fe5d17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce9a3d4f.css",
+    "static/js/main.54fe5d17.js"
+  ]
+}
